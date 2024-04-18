@@ -1,1 +1,1 @@
-{"mappings":"AAAA","sources":["index.css"],"sourcesContent":["#heading{\r\n    color: red;\r\n    \r\n}"],"names":[],"version":3,"file":"index.9e4c6fd2.css.map","sourceRoot":"/__parcel_source_root/"}
+{"mappings":"AAAA;;;;AAIA","sources":["index.css"],"sourcesContent":[".header {\r\n    display: flex;\r\n}\r\n\r\n.logo {\r\n    width: 100px;\r\n}"],"names":[],"version":3,"file":"index.9e4c6fd2.css.map","sourceRoot":"/__parcel_source_root/"}
